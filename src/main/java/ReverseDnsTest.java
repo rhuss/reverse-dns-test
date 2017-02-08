@@ -21,6 +21,7 @@ public class ReverseDnsTest {
             }
             System.out.println("Sleeping for 2s ....");
             Thread.sleep(2000);
+            count++;
         }
     }
 
